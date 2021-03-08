@@ -1,0 +1,175 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "prod_name": "Tshirts",
+      "category_id": 2,
+      "description": "Product description 3",
+      "product_image": "http://localhost:4200/assets/3.png",
+      "price": 400,
+      "is_available": true,
+      "rating": 3,
+      "reviews": 220,
+      "vendor_name": "seller 3",
+      "warrenty": 1
+    },
+    {
+      "id": 4,
+      "prod_name": "Trouser",
+      "category_id": 2,
+      "description": "Product description 4",
+      "product_image": "http://localhost:4200/assets/4.png",
+      "price": 400,
+      "is_available": true,
+      "rating": 4,
+      "reviews": 220,
+      "vendor_name": "seller 4",
+      "warrenty": 2
+    },
+    {
+      "id": 5,
+      "prod_name": "shoes",
+      "category_id": 5,
+      "description": "Product description 5",
+      "product_image": "http://localhost:4200/assets/5.png",
+      "price": 400,
+      "is_available": true,
+      "rating": 4.5,
+      "reviews": 220,
+      "vendor_name": "seller 5",
+      "warrenty": 2
+    },
+    {
+      "id": 10,
+      "rating": "",
+      "productImg": "",
+      "isAvailable": 1
+    },
+    {
+      "id": 11,
+      "category_id": "123",
+      "product_name": "Golf Tshirts",
+      "product_description": "Sportsmane choice",
+      "product_rating": "3",
+      "product_price": "3500",
+      "product_image": "",
+      "is_available": "yes",
+      "product_color": "#350f43",
+      "product_reviews": "Nice quality"
+    },
+    {
+      "id": 13,
+      "category_id": "857",
+      "product_name": "asas",
+      "product_description": "asa",
+      "product_rating": "3",
+      "product_price": "800",
+      "product_image": "",
+      "is_available": "yes",
+      "product_color": "#7e4b1b",
+      "product_reviews": "asassas"
+    },
+    {
+      "id": 14,
+      "category_id": "sds",
+      "product_name": "sds",
+      "product_description": "sdsd",
+      "product_rating": "2",
+      "product_price": "800",
+      "product_image": "",
+      "is_available": "yes",
+      "product_color": "#e12323",
+      "product_reviews": "l;ko"
+    },
+    {
+      "id": 15,
+      "category_id": "857",
+      "product_name": "Shoes",
+      "product_description": "asdfsd",
+      "product_rating": "3",
+      "product_price": "800",
+      "product_image": "",
+      "is_available": "yes",
+      "product_color": "#e27e7e",
+      "product_reviews": "sdfssfsdff"
+    },
+    {
+      "id": 16,
+      "category_id": "adaa",
+      "product_name": "adaas",
+      "product_description": "add",
+      "product_rating": "2",
+      "product_price": "2500",
+      "product_image": "",
+      "is_available": "yes",
+      "product_color": "#876e6e",
+      "product_reviews": "aaaa"
+    },
+    {
+      "id": 17,
+      "category_id": "asdaad",
+      "product_name": "adas",
+      "product_description": "dad",
+      "product_rating": "3",
+      "product_price": "3500",
+      "product_image": "",
+      "is_available": "no",
+      "product_color": "#c75757",
+      "product_reviews": "asfdff"
+    },
+    {
+      "id": 18,
+      "category_id": "ad",
+      "product_name": "adad",
+      "product_description": "dasda",
+      "product_rating": "3",
+      "product_price": "800",
+      "product_image": "",
+      "is_available": "yes",
+      "product_color": "#c85656",
+      "product_reviews": "adad"
+    },
+    {
+      "id": 20,
+      "prod_name": "Denim shirt",
+      "category_id": "32",
+      "description": "Denim shirt",
+      "product_image": "",
+      "price": "2500",
+      "is_available": "yes",
+      "rating": "3",
+      "reviews": "ioo",
+      "product_color": "#4eca7a"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Tshirts"
+    },
+    {
+      "id": 2,
+      "categoryName": "Jeans"
+    },
+    {
+      "id": 3,
+      "categoryName": "Top"
+    },
+    {
+      "id": 4,
+      "categoryName": "Casulat Tshirts"
+    },
+    {
+      "id": 5,
+      "categoryName": "Soccer Tshirts"
+    },
+    {
+      "id": 6,
+      "categoryName": "Shoes"
+    },
+    {
+      "id": 2,
+      "categoryName": "Jackets"
+    }
+  ]
+}
